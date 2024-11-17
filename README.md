@@ -1,6 +1,6 @@
 # CONSULTAR CEP
 
-#### É uma aplicação bem básica para aprender e praticar alguns conceitos em React e JavaScript.
+#### É uma aplicação bem básica para aprender e praticar alguns conceitos em React, Bootstrap e JavaScript.
 
 > consiste em uma consulta onde o usuário vai digitar um CEP e vai receber o endereço junto com a localização do mapa.
 
@@ -8,6 +8,7 @@
 
 * configuração e utilização VAREÁVEIS_DE_AMBIENTE tipo ```.env```
 * como consumir APIs ```fetch()``` do JavaScript.
+* Bootstrap com React.
 
 #### Problemas a serem resolvidos algum dia:
 
